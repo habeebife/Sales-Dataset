@@ -51,3 +51,7 @@ Top 3 customers: Logan Galloway, Stephanie Manning, Cory Evans.
 🎯 Action: Build loyalty programs or offer exclusive incentives to retain high-value clients.
 
 This analysis provides actionable insights to guide marketing strategy, customer retention, and resource allocation for continued business growth.
+<!-- Uploading "Screenshot 2025-06-24 064457.png"... -->
+<!-- Uploading "Screenshot 2025-06-24 064831.png"... -->
+
+
