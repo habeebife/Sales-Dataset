@@ -52,5 +52,7 @@ Top 3 customers: Logan Galloway, Stephanie Manning, Cory Evans.
 
 This analysis provides actionable insights to guide marketing strategy, customer retention, and resource allocation for continued business growth.
 
+![Image](https://github.com/user-attachments/assets/65e191a5-2755-4d40-8566-61eea6b8e650)
 
+![Image](https://github.com/user-attachments/assets/2bf6e3a0-57cc-488b-bfb7-353b0b6e9f1f)
 
